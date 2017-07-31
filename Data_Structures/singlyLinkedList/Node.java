@@ -1,5 +1,3 @@
-package ds.singlyLinkedList;
-
 public class Node {
 
     int data;
