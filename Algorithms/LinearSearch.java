@@ -1,5 +1,3 @@
-package algo.linearsearch;
-
 public class LinearSearch {
 
     static int search(int[] arr, int x){
