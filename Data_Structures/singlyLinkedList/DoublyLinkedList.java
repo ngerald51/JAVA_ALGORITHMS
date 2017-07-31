@@ -1,5 +1,3 @@
-package ds.singlyLinkedList;
-
 public class DoublyLinkedList {
     private Node first;
     private Node last;
