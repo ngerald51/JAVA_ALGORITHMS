@@ -1,5 +1,3 @@
-package ds.stack;
-
 public class StackHW {
 
     private int maxSize;
